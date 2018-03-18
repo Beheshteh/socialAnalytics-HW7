@@ -17,21 +17,21 @@ Three observable trends based on the data are:
 
 #The first plot will be and/or feature the following:
 
-# 1. Be a scatter plot of sentiments of the last __100__ tweets sent out by each news organization,
-# ranging from -1.0 to 1.0, where a score of 0 expresses a neutral sentiment, -1 the most negative
-# sentiment possible, and +1 the most positive sentiment possible.
-# 2. Each plot point will reflect the _compound_ sentiment of a tweet.
-# 3. Sort each plot point by its relative timestamp.
+ 1. Be a scatter plot of sentiments of the last __100__ tweets sent out by each news organization,
+ranging from -1.0 to 1.0, where a score of 0 expresses a neutral sentiment, -1 the most negative
+sentiment possible, and +1 the most positive sentiment possible.
+2. Each plot point will reflect the _compound_ sentiment of a tweet.
+3. Sort each plot point by its relative timestamp.
 
 #The second plot will be a bar plot visualizing the _overall_ sentiments of the last 100 tweets from each
 #organization. For this plot, you will again aggregate the compound sentiments analyzed by VADER.
 
 # As final considerations:
 
-# Use the Matplotlib and Seaborn libraries.
-# Include a written description of three observable trends based on the data. 
-# Include proper labeling of your plots, including plot titles (with date of analysis) and axes labels.
-# Include an exported markdown version of your Notebook called  `README.md` in your GitHub repository.  
+Use the Matplotlib and Seaborn libraries.
+Include a written description of three observable trends based on the data. 
+Include proper labeling of your plots, including plot titles (with date of analysis) and axes labels.
+Include an exported markdown version of your Notebook called  `README.md` in your GitHub repository.  
 
 
 ```
